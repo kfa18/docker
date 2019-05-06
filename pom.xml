@@ -3,4 +3,12 @@
   <groupId>dockerTest</groupId>
   <artifactId>dockerTest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <scm>
+  	<url>https://github.com/kfa18/docker</url>
+  	<connection>scm:git:git@github.com:kfa18/docker.git</connection>
+  	<developerConnection>scm:git:git@github.com:kfa18/docker.git</developerConnection>
+    <tag>HEAD</tag>
+  </scm>
+  
 </project>
